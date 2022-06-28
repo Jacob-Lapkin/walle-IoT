@@ -1,4 +1,5 @@
 # walle-IoT
+Walle is a object avoiding robot built on the raspberry pi pico. Being highly sustainable, his 10000 mAh power bank is recharged using solar panels. He can roam around you home endlessly, and you don't have to worry about him becoming stuck. He has many save features that will reduce the risk of him becoming an annoyance in the corner. Try him out and have fun!
 ## Built With
 Here are a few of the many frameworks/tools that were needed in building the project.
 
@@ -28,7 +29,10 @@ Below is a high level overview of how to get started with the project.
 
 ## Usage
 ![My Image](examples/walle.jpeg)
-![My Image](examples/walle_vid.MOV)
+
+https://user-images.githubusercontent.com/65730020/176061590-a92dad7d-62ea-4288-99d6-82f77dd5377a.MOV
+
+
 
 
 
