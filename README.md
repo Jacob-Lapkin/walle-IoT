@@ -27,7 +27,7 @@ Below is a high level overview of how to get started with the project.
 3. save firmware to pi pico board
 
 ## Usage
-![My Image](examples/walle.jpg)
+![My Image](examples/walle.jpeg)
 
 
 ## Contributing
