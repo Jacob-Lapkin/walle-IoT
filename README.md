@@ -28,6 +28,8 @@ Below is a high level overview of how to get started with the project.
 
 ## Usage
 ![My Image](examples/walle.jpeg)
+![My Image](examples/walle_vid.MOV)
+
 
 
 ## Contributing
